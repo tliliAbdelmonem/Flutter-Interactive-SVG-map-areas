@@ -1,16 +1,33 @@
-# map_areas
+# Flutter Interactive SVG Map Areas
 
-A new Flutter project.
+An interactive Flutter application that displays and manages clickable areas on an SVG map. This application allows users to select different regions on a map and interact with them using Flutter's powerful rendering capabilities.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Interactive Map Areas: Display SVG-based map areas that can be clicked and interacted with.
+* Customizable Colors: Each map area can be customized with different fill and stroke colors.
+* Dynamic Selection: Highlight and manage the selection of specific map areas.
+* Gesture Handling: Detect and respond to user interactions with map areas.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/your-username/interactive-svg-map-areas.git
+cd interactive-svg-map-areas
+
+```
+
+2. Install dependencies:
+
+```
+flutter pub get
+
+```
+3. Run the application:
+
+```
+flutter run
+
+```
