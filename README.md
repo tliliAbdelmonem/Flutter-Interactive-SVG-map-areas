@@ -2,6 +2,11 @@
 
 An interactive Flutter application that displays and manages clickable areas on an SVG map. This application allows users to select different regions on a map and interact with them using Flutter's powerful rendering capabilities.
 
+<img src="https://github.com/tliliAbdelmonem/Flutter-Interactive-SVG-map-areas/blob/main/assets/preview/preview.jpg" />
+
+
+
+
 ## Features
 
 * Interactive Map Areas: Display SVG-based map areas that can be clicked and interacted with.
